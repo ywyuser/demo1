@@ -3,6 +3,7 @@
     <img src="./assets/logo.png" />
     <router-view />
     <div>dsfsdfds</div>
+    <div>ssssssssssss</div>
   </div>
 </template>
 
