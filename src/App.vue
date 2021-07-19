@@ -4,6 +4,7 @@
     <router-view />
     <div>dsfsdfds</div>
     <div>ssssssssssss</div>
+    <div>dfsfsafddddd</div>
   </div>
 </template>
 
